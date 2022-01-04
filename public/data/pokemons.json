@@ -1,0 +1,32 @@
+[
+    {
+        "id": "001",
+        "name": "Bulbassaur",
+        "region": "Kanto"
+      },
+      {
+        "id": "002",
+        "name": "Ivysaur",
+        "region": "Kanto"
+      },
+      {
+        "id": "003",
+        "name": "Venusaur",
+        "region": "Kanto"
+      },
+      {
+        "id": "004",
+        "name": "Charmander",
+        "region": "Kanto"
+      },
+      {
+        "id": "005",
+        "name": "Charmeleon",
+        "region": "Kanto"
+      },
+      {
+        "id": "006",
+        "name": "Charizard",
+        "region": "Kanto"
+      }
+]
